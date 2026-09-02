@@ -1,0 +1,32 @@
+/* Small tweaks layered on top of the theme */
+.timeline {
+  border-left: 3px solid #3b5d42;
+  margin-left: 1rem;
+  padding-left: 1.5rem;
+}
+
+.timeline .entry {
+  margin-bottom: 1.5rem;
+  position: relative;
+}
+
+.timeline .entry::before {
+  content: "";
+  position: absolute;
+  left: -1.94rem;
+  top: 0.3rem;
+  width: 0.7rem;
+  height: 0.7rem;
+  border-radius: 50%;
+  background: #a15c3e;
+}
+
+.entry .year {
+  font-weight: bold;
+  color: #3b5d42;
+}
+
+table.album-table th {
+  background-color: #3b5d42;
+  color: white;
+}
