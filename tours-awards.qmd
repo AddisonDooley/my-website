@@ -1,0 +1,46 @@
+---
+title: "Tours & Awards"
+subtitle: "From club shows to arenas"
+---
+
+## Touring History
+
+Noah Kahan's live career scaled dramatically alongside the success of *Stick Season*. What began as
+support slots and small venue headline dates grew into sold-out arena and amphitheater tours as the album
+found a global audience.
+
+::: {.timeline}
+
+::: {.entry}
+<span class="year">Early Years</span> — Plays clubs and small theaters, opening for other artists while
+building a fanbase.
+:::
+
+::: {.entry}
+<span class="year">2022–2023</span> — Headlines the **Stick Season Tour**, growing from theaters to larger
+venues as the album's popularity surges.
+:::
+
+::: {.entry}
+<span class="year">2023</span> — Performs at major festivals, including sets that introduce his folk-pop
+sound to broader festival audiences.
+:::
+
+::: {.entry}
+<span class="year">2024</span> — Headlines the **We'll All Be Here Forever Tour**, playing arenas and
+stadiums across North America, the UK, and Europe.
+:::
+
+:::
+
+## Awards & Recognition
+
+- **Grammy Award nomination** — Best New Artist (2024 ceremony, recognizing 2023 eligibility period)
+- **Billboard and streaming chart success** — *Stick Season* spent extended time on major album and
+  streaming charts, with the title track becoming a multi-platinum single
+- **iHeartRadio and other industry nominations** recognizing his breakout year as a folk-pop crossover artist
+
+::: {.callout-note}
+Chart positions, certifications, and award outcomes are frequently updated by industry bodies; consult
+Grammy.com or Billboard.com for the most current, authoritative figures.
+:::

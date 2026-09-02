@@ -1,0 +1,65 @@
+---
+title: "Discography"
+subtitle: "Albums, EPs, and standout songs"
+---
+
+## Studio Albums
+
+| Album | Year | Notes |
+|---|---|---|
+| *Busyhead* | 2019 | Debut studio album; leaned toward pop production. |
+| *I Was / I Am* | 2021 | Second album, marking an early shift in sound. |
+| *Stick Season* | 2022 | Breakout folk-pop album; his commercial peak. |
+| *Stick Season (We'll All Be Here Forever)* | 2023 | Deluxe reissue with additional tracks and features. |
+| *Stick Season (Forever)* | 2023 | Further expanded edition closing out the era. |
+
+: {.album-table}
+
+## EPs
+
+- **Cape Elizabeth** (2021) — A stripped-back, folk-leaning EP that foreshadowed the *Stick Season* sound.
+
+## Notable Songs
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+### "Stick Season"
+The title track and signature hit — a wistful account of heartbreak and homesickness set against the
+Vermont autumn.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### "Dial Drunk"
+A frenetic, radio-friendly single about a late-night drunk call to an ex; later reworked as a duet with
+Post Malone.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### "Northern Attitude"
+A collaboration with Zach Bryan reflecting on the guardedness bred by a cold-weather upbringing.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### "You're Gonna Go Far"
+An anthemic, string-laden track about watching someone you love outgrow their hometown.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### "Call Your Mom"
+A tender duet with Lizzy McAlpine about checking in on the people you love during hard times.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### "Homesick"
+An earlier fan favorite that captures the pull between wanting to leave a small town and never wanting to
+leave it.
+:::
+
+:::
+
+::: {.callout-tip}
+## Where to Listen
+Kahan's catalog is available on all major streaming platforms, including Spotify, Apple Music, and
+YouTube Music.
+:::

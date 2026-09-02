@@ -1,0 +1,54 @@
+---
+title: "Welcome"
+page-layout: full
+---
+
+::: {.hero-banner}
+# Noah Kahan
+Folk-pop singer-songwriter from Strafford, Vermont
+
+<p class="tagline">"I'm not much of a romantic, I'm as cold as the water in the pool up in Vermont" — Stick Season</p>
+:::
+
+## About the Artist
+
+Noah Kahan is an American singer-songwriter whose blend of folk instrumentation, self-deprecating lyricism,
+and pop songcraft turned him into one of the breakout artists of the 2020s. Raised in Strafford, Vermont,
+Kahan built a devoted online following before his 2022 album *Stick Season* became a cultural phenomenon,
+soundtracking a wave of interest in "New England sad-boy" folk-pop and earning him a Grammy nomination for
+Best New Artist.
+
+His songwriting leans on the specifics of small-town New England life — snow, homesickness, strained family
+relationships, and the ache of growing up — set against arrangements that borrow as much from The Lumineers
+and Mumford & Sons as from mainstream pop radio.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+### 🎸 Genre
+Folk-pop, indie folk, pop
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### 📍 Hometown
+Strafford, Vermont
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### 🏆 Recognition
+2024 Grammy nominee, Best New Artist
+:::
+
+:::
+
+## Explore the Site
+
+- **[Biography](biography.qmd)** — from Vermont teenager to arena headliner
+- **[Discography](discography.qmd)** — albums, EPs, and standout tracks
+- **[Tours & Awards](tours-awards.qmd)** — the Stick Season era on the road
+- **[Philanthropy](philanthropy.qmd)** — The Busyhead Project and mental health advocacy
+
+::: {.callout-note}
+This is an unofficial, fan-made informational site built with [Quarto](https://quarto.org) for
+demonstration purposes. It is not affiliated with Noah Kahan or his record labels.
+:::

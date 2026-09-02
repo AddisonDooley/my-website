@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Noah Kahan"
+  description: "A fan site exploring the music and story of singer-songwriter Noah Kahan"
+  site-url: ""
+  navbar:
+    background: primary
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: biography.qmd
+        text: Biography
+      - href: discography.qmd
+        text: Discography
+      - href: tours-awards.qmd
+        text: Tours & Awards
+      - href: philanthropy.qmd
+        text: Philanthropy
+    right:
+      - icon: spotify
+        href: https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B
+        aria-label: Spotify
+      - icon: instagram
+        href: https://www.instagram.com/noahkahanmusic/
+        aria-label: Instagram
+
+  page-footer:
+    left: "Unofficial fan site · Built with Quarto"
+    right: "Not affiliated with Noah Kahan, Mercury Records, or Republic Records"
+    background: light
+
+  page-navigation: true
+  back-to-top-navigation: true
+
+format:
+  html:
+    theme:
+      light: [flatly, styles.scss]
+      dark: [darkly, styles.scss]
+    css: styles.css
+    toc: true
+    grid:
+      body-width: 900px

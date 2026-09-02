@@ -1,0 +1,45 @@
+/*-- scss:defaults --*/
+$primary: #3b5d42;   // deep forest green — Vermont woods
+$body-bg: #faf7f0;   // warm off-white
+$link-color: #a15c3e; // rust/amber accent
+
+$font-family-sans-serif: "Georgia", "Iowan Old Style", serif;
+
+/*-- scss:rules --*/
+.navbar-title {
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+.hero-banner {
+  padding: 3rem 1rem;
+  text-align: center;
+  border-radius: 0.5rem;
+  background: linear-gradient(135deg, #3b5d42 0%, #6b8f71 100%);
+  color: #fdfdfa;
+  margin-bottom: 2rem;
+}
+
+.hero-banner h1 {
+  color: #fdfdfa;
+  font-size: 2.6rem;
+  margin-bottom: 0.25rem;
+}
+
+.hero-banner p {
+  font-size: 1.2rem;
+  opacity: 0.92;
+}
+
+.tagline {
+  font-style: italic;
+  color: $link-color;
+}
+
+.callout-quote {
+  border-left: 4px solid $primary;
+  padding-left: 1rem;
+  margin: 1.5rem 0;
+  font-style: italic;
+  color: #4a4a4a;
+}

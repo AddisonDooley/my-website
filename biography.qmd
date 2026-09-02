@@ -1,0 +1,76 @@
+---
+title: "Biography"
+subtitle: "From a Vermont bedroom to Stick Season"
+---
+
+## Early Life
+
+Noah Kahan was born in 1997 and raised in Strafford, Vermont, a small rural town he has described as
+central to both his identity and his songwriting. Music was part of his household growing up, and he began
+writing songs and posting them online as a teenager, building a following on platforms like YouTube and
+SoundCloud before he had a record deal.
+
+## Getting Discovered
+
+Kahan's early single "Young Blood" caught the attention of Republic Records, leading to a record deal while
+he was still a teenager. He spent his late teens and early twenties developing his sound, releasing music
+that leaned closer to conventional pop before returning to the folk and acoustic influences of his
+childhood.
+
+## Breaking Through
+
+::: {.callout-quote}
+"Stick season, it's already got its icy grip on me" — the opening line that launched a thousand playlists.
+:::
+
+His 2021 EP *Cape Elizabeth* signaled a turn toward the introspective, New England-rooted sound that would
+define his career. That shift crystallized with the 2022 release of his third studio album, **Stick
+Season**, named for the bleak stretch of late autumn in northern New England after the leaves have fallen
+and before the snow arrives. The album — and its title track in particular — went viral on TikTok and
+streaming platforms, resonating with listeners far outside Vermont who connected with its themes of
+homesickness, arrested development, and small-town restlessness.
+
+## The Stick Season Era
+
+Kahan followed the album with deluxe reissues (*Stick Season (We'll All Be Here Forever)* and *Stick Season
+(Forever)*), packed with additional tracks and high-profile collaborations, including "Northern Attitude"
+with Zach Bryan and "Call Your Mom" with Lizzy McAlpine. The extended rollout kept the project in the
+cultural conversation for nearly two years, moving him from small clubs to headlining arenas and festivals
+worldwide.
+
+## Timeline
+
+::: {.timeline}
+
+::: {.entry}
+<span class="year">1997</span> — Born in Vermont.
+:::
+
+::: {.entry}
+<span class="year">Teens</span> — Signs with Republic Records after early singles gain attention online.
+:::
+
+::: {.entry}
+<span class="year">2019</span> — Releases debut album *Busyhead*.
+:::
+
+::: {.entry}
+<span class="year">2021</span> — Releases *I Was / I Am* and the *Cape Elizabeth* EP, moving toward a folk-driven sound.
+:::
+
+::: {.entry}
+<span class="year">2022</span> — Releases *Stick Season*, his commercial breakthrough.
+:::
+
+::: {.entry}
+<span class="year">2023</span> — Releases deluxe editions *We'll All Be Here Forever* and *Forever*; launches The Busyhead Project.
+:::
+
+::: {.entry}
+<span class="year">2024</span> — Nominated for a Grammy Award for Best New Artist; headlines major festivals and arena tours.
+:::
+
+:::
+
+Learn more about his music on the [Discography](discography.qmd) page, or his touring history on
+[Tours & Awards](tours-awards.qmd).
