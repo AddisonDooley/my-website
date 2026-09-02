@@ -1,61 +1,112 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" role="img" aria-label="Illustration of a singer-songwriter with a guitar standing among Vermont pine trees at dusk">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" role="img" aria-label="Illustration of a bearded singer-songwriter in a beanie and flannel, playing an acoustic guitar among Vermont pine trees at dusk">
   <defs>
     <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#6b8f71"/>
       <stop offset="100%" stop-color="#3b5d42"/>
     </linearGradient>
+    <linearGradient id="guitarBody" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#a15c3e"/>
+      <stop offset="100%" stop-color="#7a4028"/>
+    </linearGradient>
   </defs>
 
-  <rect x="0" y="0" width="800" height="320" fill="url(#sky)"/>
-
-  <circle cx="640" cy="80" r="46" fill="#fdfdfa" opacity="0.85"/>
+  <rect x="0" y="0" width="800" height="380" fill="url(#sky)"/>
+  <circle cx="640" cy="90" r="46" fill="#fdfdfa" opacity="0.85"/>
 
   <!-- distant tree line -->
   <g fill="#2c4832" opacity="0.55">
-    <polygon points="40,260 70,190 100,260"/>
-    <polygon points="90,260 130,170 170,260"/>
-    <polygon points="160,260 195,200 230,260"/>
-    <polygon points="560,260 600,180 640,260"/>
-    <polygon points="620,260 655,195 690,260"/>
-    <polygon points="680,260 720,175 760,260"/>
+    <polygon points="40,310 70,240 100,310"/>
+    <polygon points="90,310 130,220 170,310"/>
+    <polygon points="160,310 195,250 230,310"/>
+    <polygon points="560,310 600,230 640,310"/>
+    <polygon points="620,310 655,245 690,310"/>
+    <polygon points="680,310 720,225 760,310"/>
   </g>
 
   <!-- foreground pines -->
   <g fill="#22381f">
-    <polygon points="90,270 130,150 170,270"/>
-    <polygon points="115,270 130,220 145,270"/>
-    <polygon points="620,270 665,140 710,270"/>
-    <polygon points="645,270 665,205 685,270"/>
-    <polygon points="10,270 45,175 80,270"/>
-    <polygon points="700,270 738,190 776,270"/>
+    <polygon points="90,320 130,200 170,320"/>
+    <polygon points="115,320 130,270 145,320"/>
+    <polygon points="620,320 665,190 710,320"/>
+    <polygon points="645,320 665,255 685,320"/>
+    <polygon points="10,320 45,225 80,320"/>
+    <polygon points="700,320 738,240 776,320"/>
   </g>
 
   <!-- ground -->
-  <rect x="0" y="266" width="800" height="54" fill="#1c2e1a"/>
+  <rect x="0" y="316" width="800" height="64" fill="#1c2e1a"/>
 
-  <!-- figure with guitar -->
-  <g transform="translate(340,110)" fill="#16241a">
+  <!-- figure -->
+  <g transform="translate(300,60)">
+    <!-- torso: flannel shirt -->
+    <path d="M52 88 q38 -20 76 0 l9 130 q-47 20 -94 0 z" fill="#7a3b32"/>
+    <g stroke="#c9a53f" stroke-width="2" opacity="0.5">
+      <line x1="57" y1="100" x2="132" y2="112"/>
+      <line x1="54" y1="132" x2="137" y2="144"/>
+      <line x1="52" y1="164" x2="141" y2="176"/>
+      <line x1="50" y1="196" x2="145" y2="208"/>
+    </g>
+    <g stroke="#c9a53f" stroke-width="2" opacity="0.35">
+      <line x1="74" y1="82" x2="80" y2="214"/>
+      <line x1="110" y1="82" x2="104" y2="214"/>
+    </g>
+    <path d="M76 84 l14 15 l14 -15" fill="none" stroke="#3f2018" stroke-width="3" stroke-linecap="round"/>
+
+    <!-- neck -->
+    <rect x="80" y="68" width="20" height="20" rx="5" fill="#c99968"/>
+
     <!-- head -->
-    <circle cx="60" cy="18" r="17"/>
+    <ellipse cx="90" cy="44" rx="29" ry="32" fill="#d9a978"/>
+    <circle cx="61" cy="48" r="4.5" fill="#d9a978"/>
+    <circle cx="119" cy="48" r="4.5" fill="#d9a978"/>
+
     <!-- beanie -->
-    <path d="M43 12 a17 12 0 0 1 34 0 z"/>
-    <!-- body -->
-    <path d="M45 34 q15 -8 30 0 l8 90 q-23 12 -46 0 z"/>
-    <!-- guitar body -->
-    <ellipse cx="52" cy="120" rx="30" ry="38"/>
-    <ellipse cx="52" cy="120" rx="12" ry="16" fill="#16241a" stroke="#3b5d42" stroke-width="2"/>
-    <!-- guitar neck -->
-    <rect x="70" y="55" width="8" height="65" transform="rotate(18 70 55)"/>
-    <!-- arms -->
-    <path d="M46 45 q-18 20 -10 45 l10 4 q0 -30 12 -42 z"/>
-    <path d="M78 45 q16 14 14 40 l-9 3 q-2 -26 -14 -36 z"/>
+    <path d="M58 32 q3 -30 32 -30 q29 0 32 30 q0.8 5 -0.8 8 q-31 -9 -62.4 0 q-1.6 -3 -0.8 -8 z" fill="#3b5d42"/>
+    <rect x="57" y="30" width="66" height="9" rx="4.5" fill="#2c4832"/>
+
+    <!-- eyebrows -->
+    <rect x="72" y="44" width="12" height="3" rx="1.5" fill="#3a2a1e"/>
+    <rect x="96" y="44" width="12" height="3" rx="1.5" fill="#3a2a1e"/>
+    <!-- eyes -->
+    <circle cx="78" cy="51" r="2.2" fill="#2a2018"/>
+    <circle cx="102" cy="51" r="2.2" fill="#2a2018"/>
+    <!-- nose -->
+    <path d="M90 50 q4 9 0 14 q-3 2 -6 0" fill="none" stroke="#b8875a" stroke-width="1.6" stroke-linecap="round"/>
+
+    <!-- mustache + beard -->
+    <path d="M71 66 q19 10 38 0 q2 6 -3 9 q-16 8 -32 0 q-5 -3 -3 -9 z" fill="#4a3526"/>
+    <path d="M63 62 q6 28 27 32 q21 -4 27 -32 q3 15 -4 27 q-9 16 -23 18 q-14 -2 -23 -18 q-7 -12 -4 -27 z" fill="#4a3526"/>
+    <path d="M81 71 q9 5 18 0" fill="none" stroke="#7a4a3a" stroke-width="1.6" stroke-linecap="round"/>
+
+    <!-- guitar, resting across the lap in front of the torso -->
+    <g transform="translate(6,196) rotate(-15)">
+      <rect x="46" y="-96" width="12" height="96" fill="#5a3a24"/>
+      <rect x="40" y="-118" width="25" height="24" rx="4" fill="#4a2515"/>
+      <g stroke="#e8e2d0" stroke-width="0.8">
+        <line x1="48" y1="-96" x2="51" y2="66"/>
+        <line x1="52" y1="-96" x2="52.5" y2="66"/>
+        <line x1="56" y1="-96" x2="54" y2="66"/>
+      </g>
+      <ellipse cx="52" cy="36" rx="44" ry="60" fill="url(#guitarBody)" stroke="#3f2018" stroke-width="2"/>
+      <ellipse cx="52" cy="22" rx="18" ry="22" fill="#1c1410"/>
+      <ellipse cx="52" cy="22" rx="21" ry="25" fill="none" stroke="#f4d58d" stroke-width="1.5"/>
+      <!-- fretting hand partway up the neck -->
+      <ellipse cx="51" cy="-38" rx="11" ry="12" fill="#d9a978"/>
+      <rect x="45" y="-44" width="12" height="14" rx="4" fill="#d9a978" opacity="0.85"/>
+      <!-- strumming hand near the soundhole -->
+      <ellipse cx="92" cy="26" rx="11" ry="12" fill="#d9a978"/>
+    </g>
+
+    <!-- upper arms, connecting shoulders to the hands on the guitar -->
+    <path d="M58 96 q-30 26 -22 84 l14 -1 q-8 -50 20 -74 z" fill="#6a332b"/>
+    <path d="M116 98 q30 26 12 92 l-14 -3 q12 -50 -8 -76 z" fill="#7a3b32"/>
   </g>
 
   <!-- fireflies -->
   <g fill="#f4d58d" opacity="0.8">
-    <circle cx="230" cy="120" r="2.5"/>
-    <circle cx="500" cy="150" r="2"/>
-    <circle cx="470" cy="90" r="2.5"/>
-    <circle cx="260" cy="180" r="2"/>
+    <circle cx="230" cy="150" r="2.5"/>
+    <circle cx="520" cy="170" r="2"/>
+    <circle cx="480" cy="110" r="2.5"/>
+    <circle cx="260" cy="220" r="2"/>
   </g>
 </svg>
