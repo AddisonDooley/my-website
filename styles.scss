@@ -36,6 +36,15 @@ $font-family-sans-serif: "Georgia", "Iowan Old Style", serif;
   color: $link-color;
 }
 
+.hero-illustration {
+  max-width: 480px;
+  width: 100%;
+  height: auto;
+  margin-top: 1.5rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.25);
+}
+
 .callout-quote {
   border-left: 4px solid $primary;
   padding-left: 1rem;

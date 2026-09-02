@@ -8,6 +8,8 @@ page-layout: full
 Folk-pop singer-songwriter from Strafford, Vermont
 
 <p class="tagline">"I'm not much of a romantic, I'm as cold as the water in the pool up in Vermont" — Stick Season</p>
+
+![](hero-illustration.svg){.hero-illustration fig-alt="Illustration of a singer-songwriter with a guitar among Vermont pine trees at dusk"}
 :::
 
 ## About the Artist
